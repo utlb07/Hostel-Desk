@@ -1,0 +1,11 @@
+• ReactJS | NodeJS | ExpressJS | MongoDB
+• The hostel management web development project is designed to automate and
+streamline various tasks related to managing a hostel.
+• It includes features such as room allotment, student registration and complaint
+registration and tracking, and managing
+staff.
+• Uses Hashing for password encryption
+using bcrypt.js.
+• Store user token in cookies and contains
+Messaging Functionality which is stored
+in database
